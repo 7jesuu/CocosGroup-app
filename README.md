@@ -16,7 +16,6 @@ Cocos API предоставляет интерфейс для управлен�
 
     ```bash
     git clone https://github.com/7jesuu/CocosGroup-app.git
-    cd backend
     ```
 
 2. Установите зависимости:
