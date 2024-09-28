@@ -59,7 +59,7 @@ public async globalWs__(
         return;
     }
   }
-
+```
 
 **Ответ:**
 
